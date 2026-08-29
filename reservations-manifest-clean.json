@@ -1,0 +1,18 @@
+{
+  "id": "./reservations-clean.html",
+  "name": "Famous Reservations",
+  "short_name": "Famous RES",
+  "display": "standalone",
+  "start_url": "./reservations-clean.html",
+  "scope": "./",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./RESicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
