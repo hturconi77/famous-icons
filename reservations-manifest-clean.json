@@ -9,7 +9,7 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "./RESicon.png",
+"src": "./RESicon_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
